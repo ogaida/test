@@ -5,3 +5,5 @@
 
 <img src="https://yuml.me/diagram/scruffy/class/[SDM%20REST-API%7Bbg:red%7D]%3C-%3E[usd-gem%7Bbg:green%7D]%3C-%3E[rusdc%7Bbg:green%7D],[ruby-script%7Bbg:blue%7D]%3C-%3E[usd-gem],[sinatra%20web-app%7Bbg:blue%7D]%3C-%3E[usd-gem],[bash%20commands]%3C-%3E[rusdc],[shell-scripts]%3C-%3E[rusdc],[import]-%3E[ruby-script],[ruby-script]-%3E[export],[reports]%3C-[sinatra%20web-app]%3C-[drop%20datafiles/emails/create%20objects],[import]-%3E[rusdc],[export]%3C-[rusdc],[sinatra%20web-app]-%3E[export]">
 
+<img src="https://yuml.me/diagram/scruffy/class/[Webserver%20mit%20Apache%20Configs%7Bbg:red%7D]%3C-%3E[Git-Repository%7Bbg:green%7D]%3C-%3E[Config-Editor%20Webservice%7Bbg:green%7D]%3C-%3E[Admin-Workstation%7Bbg:red%7D]%3C-%3E[Git-Repository%7Bbg:green%7D]">
+
