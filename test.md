@@ -1,6 +1,7 @@
 ### NAME
 rndc - name server control utility
 
+
 ### SYNOPSIS
        rndc [-b source-address] [-c config-file] [-k key-file] [-s server] [-p port] [-q] [-r] [-V] [-y key_id] {command}
 
